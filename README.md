@@ -1,7 +1,10 @@
+因原账号遗失了二次验证，故创建新的账号以继续更新。
+Due to a 2FA issue, I created this new github accout to keep updated.
+
 # x-gorgon/xlog
 抖音xg04算法和设备号风控研究  
 
-Douyin/Tiktok algorithms including x-gorgon, xlog, register and activate devices
+Douyin/Tiktok algorithms including x-gorgon(v03,v0401,v0404, v0408, v0802), xlog, ttencrypt/applog, register and activate devices
 
 本项目主要是针对抖音和Tiktok爬虫业务的研究。要实现一个大并发且稳定的爬虫， 至少具备以下条件:
 * IP
