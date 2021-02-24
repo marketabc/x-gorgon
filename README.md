@@ -1,5 +1,6 @@
-因原账号遗失了二次验证，故创建新的账号以继续更新。
-Due to a 2FA issue, I created this new github accout to keep updated.
+因原账号遗失了二次验证，故创建新的账号以继续更新项目https://github.com/redeveloping/x-gorgon。
+
+Due to a 2FA issue, I created this new github accout to keep projects updated.
 
 # x-gorgon/xlog
 抖音xg04算法和设备号风控研究  
